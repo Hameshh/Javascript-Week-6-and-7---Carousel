@@ -1,4 +1,6 @@
-Carousel and Slideshow Readme file
+Live Now: https://hameshh.github.io/Javascript-Week-6-and-7---Carousel/ 
+
+Carousel and Slideshow
 Created a Carousel/Slideshow with 6 different images of  my choice. Ensuring the following:
 The images are properly styled.
 Directional icons (previous and next Icons ) are shown on the images only when hovered
